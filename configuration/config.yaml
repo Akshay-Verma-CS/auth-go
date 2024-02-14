@@ -1,0 +1,21 @@
+
+cache:
+  redis:
+    url: ""
+    address: ""
+    username: ""
+    password: ""
+    db: 0
+    expiration: 0
+    clusterAddress: 
+      - ""
+      - ""
+
+database:
+  sql:
+    host: ""
+    username: ""
+    password: ""
+    db: ""
+
+    
